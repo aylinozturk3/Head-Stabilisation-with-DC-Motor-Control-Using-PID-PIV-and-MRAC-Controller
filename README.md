@@ -9,7 +9,12 @@ The system includes DC motor identification to obtain an accurate dynamic model 
 The system is modeled in state-space form and evaluated based on stability, tracking performance, disturbance rejection, and robustness.
 
 ##System Modeling
+
 DC motor mathematical modeling
 Experimental motor identification for parameter estimation
 State-space representation
 Acceleration sensor used for feedback
+
+##Implementation
+
+The entire project was implemented and simulated in MATLAB, including identification, controller design, and closed-loop performance analysis.
