@@ -18,3 +18,11 @@ Acceleration sensor used for feedback
 ##Implementation
 
 The entire project was implemented and simulated in MATLAB, including identification, controller design, and closed-loop performance analysis.
+
+Here is the experimental setup:
+
+![KiCAD](kicadfigure.jpeg)
+
+![system1_view](rt1.jpeg)
+
+![system2_view](rt2.jpeg)
