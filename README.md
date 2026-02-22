@@ -21,8 +21,8 @@ The entire project was implemented and simulated in MATLAB, including identifica
 
 Here is the experimental setup:
 
-![KiCAD](kicadfigure.jpeg)
+![KiCAD](kicadfigure.png)
 
-![system1_view](rt1.jpeg)
+![system1_view](rt1.png)
 
-![system2_view](rt2.jpeg)
+![system2_view](rt2.png)
